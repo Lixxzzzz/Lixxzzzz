@@ -59,9 +59,11 @@
 
 ---
 
-## 📸 Vista previa
+## 🎬 Vista previa
 
-![Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh2YWl6ejhtNnowZ211YTY0MXE3eWFkM2JmZHlpcDltcmc3Yzc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh2YWl6ejhtNnowZ211YTY0MXE3eWFkM2JmZHlpcDltcmc3Yzc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="700"/>
+</p>](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh2YWl6ejhtNnowZ211YTY0MXE3eWFkM2JmZHlpcDltcmc3Yzc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif)
 
 ---
 
