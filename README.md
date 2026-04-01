@@ -1,17 +1,20 @@
-<h1 align="center">Hola, soy Yinna👋</h1>
+<table>
+<tr>
+<td>
 
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh2YWl6ejhtNnowZ211YTY0MXE3eWFkM2JmZHlpcDltcmc3Yzc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="200"/>
-</p>
-
----
-
-## 🌟 Acerca de mí
+# 👋 Hola, soy Yinna
 
 💻 Estudiante de Ingeniería en Software con enfoque en desarrollo web Frontend.  
 🚀 Apasionada por crear aplicaciones modernas, funcionales y visualmente atractivas.  
 🎯 Me enfoco en escribir código limpio, eficiente y orientado a soluciones reales.  
 
+</td>
+
+<td>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh2YWl6ejhtNnowZ211YTY0MXE3eWFkM2JmZHlpcDltcmc3Yzc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="200"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tecnologías
