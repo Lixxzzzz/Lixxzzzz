@@ -70,6 +70,11 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yinnarivera150@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yinna-lizbeth-rivera-estrella)
+
 ---
 
 ⭐ Siempre aprendiendo y mejorando cada día
+---
+
+
