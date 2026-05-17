@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-# 👋 Hola, soy Yinna
+# 👋 Hola, soy Yinna Rivera
 
 💻 Estudiante de Ingeniería en Software con enfoque en desarrollo web Frontend.  
 🚀 Apasionada por crear aplicaciones modernas, funcionales y visualmente atractivas.  
@@ -68,7 +68,7 @@
 
 ## 📫 Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yinnarivera150@gmail.com)
 
 ---
 
